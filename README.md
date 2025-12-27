@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Self Driving Car!**
 
-- 📝 I regularly write articles on [Socio-Politics](Socio-Politics)
+- 📝 I regularly write articles on [Socio-Politics]()
 
 - 💬 Ask me about **Robotics**
 
