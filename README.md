@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **protickkhandkar@gmail.com**
 
-- ⚡ Fun fact **I think I am tomuch serious!**
+- ⚡ Fun fact **I think I am too much serious!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
